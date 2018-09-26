@@ -1,0 +1,28 @@
+{
+  "name": "rs_kg",
+  "version": "1.0.0",
+  "description": "rs and kg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cj1406942109/rs_kg.git"
+  },
+  "keywords": [
+    "rs",
+    "kg",
+    "freebase",
+    "neo4j"
+  ],
+  "author": "cj1406942109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cj1406942109/rs_kg/issues"
+  },
+  "homepage": "https://github.com/cj1406942109/rs_kg#readme",
+  "dependencies": {
+    "neo4j-driver": "^1.6.3"
+  }
+}
