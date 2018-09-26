@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/cj1406942109/rs_kg#readme",
   "dependencies": {
+    "config-lite": "^2.1.0",
     "neo4j-driver": "^1.6.3"
   }
 }
