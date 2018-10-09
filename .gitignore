@@ -1,2 +1,11 @@
+# vscode工作区配置
 .vscode/
+
+# npm
 node_modules/
+
+# 测试数据
+data/
+
+# php composer
+easyrdf/vendor/

@@ -9,6 +9,10 @@
  * @GitHub: https://github.com/cj1406942109
  */
 
+ /**
+  * 功能：将rdf三元组导入到neo4j中
+  * 1. 
+  */
  class RdfImporter {
      constructor () {}
  }
